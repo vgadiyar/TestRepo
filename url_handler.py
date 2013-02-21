@@ -1,6 +1,7 @@
 import bottle
 
 @bottle.route('/')
+@bottle.route('/index.html');
 def home_page():
 	return "Hello, World\n"
 
