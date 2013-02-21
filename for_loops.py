@@ -1,4 +1,4 @@
-fruit = ['apple', 'orange', 'pear']
+fruit = ['apple', 'orange', 'pear', 'banana']
 new_fruit = []
 
 for item in fruit:
