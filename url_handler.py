@@ -3,7 +3,7 @@ import bottle
 @bottle.route('/')
 @bottle.route('/index');
 def home_page():
-	return "Hello, World\n"
+	return "Hello, Baruch\n"
 
 @bottle.route('/testpage')
 def test_page():
